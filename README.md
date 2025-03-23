@@ -3,7 +3,7 @@ https://discord.gg/Wac6GTRb8w
 
 Picture
 
-![Software_Pic](https://github.com/user-attachments/assets/d309969e-84f4-4989-a79b-3ea3817808ce)
+![Software_Pic](Software_Pic.png)
 
 VIDEO
 
